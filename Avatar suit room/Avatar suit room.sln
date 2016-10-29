@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{6DCAD223-2C47-1558-19FF-5EF5E88DA821}") = "Avatar suit room", "Assembly-CSharp.csproj", "{CF0B49EA-68C2-3766-4B88-46192B97BF8F}"
+EndProject
+Project("{6DCAD223-2C47-1558-19FF-5EF5E88DA821}") = "Avatar suit room", "Assembly-CSharp-Editor.csproj", "{64C1F231-3A21-C196-D40B-2D3CD9D7C78A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0B49EA-68C2-3766-4B88-46192B97BF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0B49EA-68C2-3766-4B88-46192B97BF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0B49EA-68C2-3766-4B88-46192B97BF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0B49EA-68C2-3766-4B88-46192B97BF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C1F231-3A21-C196-D40B-2D3CD9D7C78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C1F231-3A21-C196-D40B-2D3CD9D7C78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C1F231-3A21-C196-D40B-2D3CD9D7C78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C1F231-3A21-C196-D40B-2D3CD9D7C78A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
